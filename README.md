@@ -1,2 +1,3 @@
-# click-the-dot
-Game
+# Click-the-dot
+
+Simple Game created with vanilla JS
